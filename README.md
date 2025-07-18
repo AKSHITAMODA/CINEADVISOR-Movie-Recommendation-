@@ -28,6 +28,7 @@
 - [TMDb 5000 Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
 - Additional zipped metadata files (genres, keywords, cast, crew)
 - Upload Copy of C138_to_C141 in file upload
+- Access video of the code execution: https://drive.google.com/file/d/18vy6ZYQg2nDvnPwMbgd9G00KKNWC8Aqk/view?usp=sharing
 ---
 
 ## 🛠️ Tech Stack
